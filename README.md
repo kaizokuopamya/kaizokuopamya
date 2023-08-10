@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pramod Powar</h1>
-<h3 align="center">Software Engineer from india</h3>
+<h3 align="center">Software Developer from india</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaizokuopamya&label=Profile%20views&color=0e75b6&style=flat" alt="kaizokuopamya" /> </p>
 
